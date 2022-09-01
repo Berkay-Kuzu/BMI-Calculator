@@ -1,2 +1,2 @@
 # BMI-Calculator
-BMI Calculator is an app which the users can calculate their body mass index in terms of BMI values.
+BMI Calculator is an app which the users can calculate their body mass index in terms of BMI values. The users can calculate their BMI values by using height slider and weight sliders and then when they clicked the calculate button, they can see their result. In this app, first of all, I benefited from MVC(Model-View-Controller) model to put in order the app. To be more precise, CalculatorBrain and BMI files are in Models folder. Views folder has Main file. As for Controllers file, CalculateViewController and ResultViewController are located in this file. CalculatorBrain as its name signifies is the brain of the calculation.
